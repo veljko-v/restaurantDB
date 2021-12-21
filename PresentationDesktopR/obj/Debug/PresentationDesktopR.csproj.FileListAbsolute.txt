@@ -1,0 +1,15 @@
+C:\Users\Veljko\Desktop\primer klk restaurant\PresentationDesktopR\bin\Debug\PresentationDesktopR.exe.config
+C:\Users\Veljko\Desktop\primer klk restaurant\PresentationDesktopR\bin\Debug\PresentationDesktopR.exe
+C:\Users\Veljko\Desktop\primer klk restaurant\PresentationDesktopR\bin\Debug\PresentationDesktopR.pdb
+C:\Users\Veljko\Desktop\primer klk restaurant\PresentationDesktopR\bin\Debug\BusinessLayer.dll
+C:\Users\Veljko\Desktop\primer klk restaurant\PresentationDesktopR\bin\Debug\DataLayer.dll
+C:\Users\Veljko\Desktop\primer klk restaurant\PresentationDesktopR\bin\Debug\BusinessLayer.pdb
+C:\Users\Veljko\Desktop\primer klk restaurant\PresentationDesktopR\bin\Debug\DataLayer.pdb
+C:\Users\Veljko\Desktop\primer klk restaurant\PresentationDesktopR\obj\Debug\PresentationDesktopR.csproj.AssemblyReference.cache
+C:\Users\Veljko\Desktop\primer klk restaurant\PresentationDesktopR\obj\Debug\PresentationDesktopR.Form1.resources
+C:\Users\Veljko\Desktop\primer klk restaurant\PresentationDesktopR\obj\Debug\PresentationDesktopR.Properties.Resources.resources
+C:\Users\Veljko\Desktop\primer klk restaurant\PresentationDesktopR\obj\Debug\PresentationDesktopR.csproj.GenerateResource.cache
+C:\Users\Veljko\Desktop\primer klk restaurant\PresentationDesktopR\obj\Debug\PresentationDesktopR.csproj.CoreCompileInputs.cache
+C:\Users\Veljko\Desktop\primer klk restaurant\PresentationDesktopR\obj\Debug\PresentationDesktopR.csproj.CopyComplete
+C:\Users\Veljko\Desktop\primer klk restaurant\PresentationDesktopR\obj\Debug\PresentationDesktopR.exe
+C:\Users\Veljko\Desktop\primer klk restaurant\PresentationDesktopR\obj\Debug\PresentationDesktopR.pdb

@@ -1,0 +1,6 @@
+C:\Users\Veljko\Desktop\primer klk restaurant\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\Veljko\Desktop\primer klk restaurant\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\Veljko\Desktop\primer klk restaurant\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+C:\Users\Veljko\Desktop\primer klk restaurant\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Veljko\Desktop\primer klk restaurant\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\Veljko\Desktop\primer klk restaurant\DataLayer\obj\Debug\DataLayer.pdb

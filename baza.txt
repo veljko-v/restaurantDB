@@ -1,0 +1,11 @@
+CREATE TABLE [dbo].[MenuItems]
+(
+    [Id] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [Title] NVARCHAR(200) NOT NULL, 
+    [Description] NVARCHAR(MAX) NULL, 
+    [Price] DECIMAL(18, 2) NOT NULL
+)
+SET IDENTITY_INSERT [dbo].[MenuItems] ON
+INSERT INTO [dbo].[MenuItems] ([Id], [Title], [Description], [Price]) VALUES (1, N'Lasta', N'Salata', CAST(300.00 AS Decimal(18, 2)))
+INSERT INTO [dbo].[MenuItems] ([Id], [Title], [Description], [Price]) VALUES (3, N'Kod Vranjanca', N'Pecenje', CAST(1000.00 AS Decimal(18, 2)))
+SET IDENTITY_INSERT [dbo].[MenuItems] OFF
